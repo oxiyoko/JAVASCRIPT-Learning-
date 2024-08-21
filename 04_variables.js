@@ -15,7 +15,7 @@ because of issue in block scope and functional scope
 
 in javascript we can also declare variable not giving datatypes
 
-*/
+*/  
 
 console.table([accountId, accountEmail, accountPassword])
 
