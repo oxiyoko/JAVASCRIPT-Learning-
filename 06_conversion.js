@@ -21,8 +21,29 @@ console.log(valueScoreNumber);  // output : Nan
 <>  "33abc"    --> 
 <>  true  -->  1
 <>  false -->  0
+<> "oxiyoko" --> true
 
 */
 
+
+/*
+
 let isLoggedIn = 1;
-let booleanIsLoggedIn = 
+let booleanIsLoggedIn = Boolean(isLoggedIn);
+console.log(booleanIsLoggedIn); 
+
+// Output is === > true
+
+*/
+
+
+/*
+
+let someNumber = 33;
+let stringNumber = String(someNumber);
+console.log(stringNumber);
+console.log(typeof stringNumber);
+
+*/
+
+
